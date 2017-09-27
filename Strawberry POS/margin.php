@@ -1,0 +1,1 @@
+<style="background:url(../img/home/home.jpg);margin-top:100px">
