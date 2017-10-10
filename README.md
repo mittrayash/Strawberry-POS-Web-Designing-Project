@@ -1,6 +1,6 @@
 # Strawberry-POS-Web-Designing-Project  
 
-An attractive web-designing (FRONT-END only) project using "Fullpage.js" and an alluring use of colors and animations. The project has not been prepared as a mobile-responsive project as per the user's requirements.    
+An attractive web application project using "Fullpage.js" and an alluring use of colors and animations. The project has not been prepared as a mobile-responsive project as per the user's requirements.    
 
 ## Technologies Used:  
     - HTML5
