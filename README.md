@@ -6,6 +6,7 @@ An attractive web application project using "Fullpage.js" and an alluring use of
     - HTML5
     - CSS3
     - Twitter Bootstrap 3
+    - PHP
     - FullPage.js (No Scrollbar, use 'Up', 'Down' arrow keys or other mechanisms such as touch-swipe,
       multi-finger touchpad scroll for laptops, etc.
     
