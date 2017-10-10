@@ -9,7 +9,7 @@ An attractive web application project using "Fullpage.js" and an alluring use of
     - FullPage.js (No Scrollbar, use 'Up', 'Down' arrow keys or other mechanisms such as touch-swipe,
       multi-finger touchpad scroll for laptops, etc.
     
-__NOTE: This is a front-end project only without inculcation of Mobile-Responsive design as per the user requirements.__
+__NOTE: This is a web application project only without inculcation of Mobile-Responsive design as per the user requirements.__
     
 Some of the screenshots are attached below:    
 
